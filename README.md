@@ -40,7 +40,9 @@ The datasets for Bitcoin covered the time period 01 Jan 2018 - 01 Apr 2018. The 
 ---
 ##Focus Analysis
 
-The Bitcoin datasets for Coinbase and Bitstamp ranged from Jan - 31 Mar 2018. Theses datasets were overlayed with one another and then a time series analysis was performed covering three different dates across the merged datasets. 
+The Bitcoin datasets for Coinbase and Bitstamp ranged from Jan - 31 Mar 2018. Theses datasets were overlayed with one another and then a time series analysis was performed covering three different dates across the merged datasets to calculate arbitrage opportunites and profits.
+
+
 
 
 
