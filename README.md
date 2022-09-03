@@ -1,6 +1,6 @@
 # Crypto_Arbitrage
 
-This project explores arbitrage opportunites in Bitcoin as it trades across various markets around the globe. The historical data used in this arbitrage analysis will come from two separate exchanges: Coinbase and Bitstamp. Python and Pandas will be used to analyze the datasets through summary statistics visulizations and a time series analysis. Those tools will be used to gain a deeper analysis of the datasets and find arbitrage opportunites by focusing on various time periods in the datasets. 
+This project explores arbitrage opportunites in Bitcoin as it trades across various markets around the globe. The historical data used in this analysis will come from two separate exchanges: Coinbase and Bitstamp. Python and Pandas will be used to analyze the datasets through the use of summary statistics, visulizations, and a time series analysis. Those tools will be used to gain a deeper understanding of the datasets to find arbitrage opportunites.
 
 ---
 
@@ -35,12 +35,12 @@ from pathlib import path
 
 ## Overall Analysis
 
-The datasets for Bitcoin covered the time period 01 Jan 2018 - 01 Apr 2018. The analysis showed that best arbitrage opportunities over the time period was greatest during early January through mid February. During that time the chart showed the greatest volatility. As the dataset approached March and April the arbitrage opportunities between both exchanges began to decreased as the price volatility started to align. 
+The Bitcoin dataset covered the time period between 01 Jan 2018 - 31 Mar 2018. The analysis showed that best arbitrage opportunities over the time period was greatest during early January through mid February. During that time the chart showed the greatest volatility. As the dataset approached March and April the arbitrage opportunities between both exchanges began to decreased as the price volatility started to align among the exchanges. 
 
 ---
 ## Focused Analysis
 
-The Bitcoin datasets for Coinbase and Bitstamp ranged from Jan - 31 Mar 2018. Theses datasets were overlayed with one another and then a time series analysis was performed covering three different dates across the merged datasets to calculate arbitrage opportunites and profits.
+The Bitcoin datasets for Coinbase and Bitstamp ranged from Jan 2018  -  Mar 2018. Theses datasets were overlayed with one another and then a time series analysis was performed covering three different dates across the merged datasets to calculate arbitrage opportunites and profits.
 
 
 15 JAN 2018
