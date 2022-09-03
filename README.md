@@ -70,7 +70,7 @@ The Bitcoin datasets for Coinbase and Bitstamp ranged from Jan - 31 Mar 2018. Th
 
 
 
-
+---
 
 ## Contributors
 
