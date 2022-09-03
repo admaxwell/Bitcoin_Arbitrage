@@ -38,9 +38,12 @@ from pathlib import path
 The datasets for Bitcoin covered the time period 01 Jan 2018 - 01 Apr 2018. The analysis showed that best arbitrage opportunities over the time period was greatest during early January through mid February. During that time the chart showed the greatest volatility. As the dataset approached March and April the arbitrage opportunities between both exchanges began to decreased as the price volatility started to align. 
 
 ---
-##Focus Analysis
+## Focused Analysis
 
 The Bitcoin datasets for Coinbase and Bitstamp ranged from Jan - 31 Mar 2018. Theses datasets were overlayed with one another and then a time series analysis was performed covering three different dates across the merged datasets to calculate arbitrage opportunites and profits.
+
+
+![Arbitrage Analysis 15 Jan 2018](arbitrage_early_one.png)
 
 
 
